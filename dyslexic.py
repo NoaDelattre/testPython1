@@ -1,7 +1,7 @@
 from math import*
 from random import*
 Dys = ["dyslexique", "dysorthographique", "dyscalculique", "dysgraphique", "dyspraxique", "dysphasique"]
-Noms = ["Axel","Julien Code", "Enzo", "Hannae", "Jonathan", "Mathys", "Timeo", "Tanguy", "Hoffmann", "Gremont"] 
+Noms = ["Axel", "Valentin","Julien Code", "Enzo", "Hannae", "Jonathan", "Mathys", "Timeo", "Tanguy", "Hoffmann", "Gremont"] 
 faireSesLacets = True
 
 for i in range(len(Noms)):
